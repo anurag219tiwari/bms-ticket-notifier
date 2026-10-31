@@ -8,19 +8,19 @@
       "price": "2200.00",
       "status": "0"
     },
-    "PVPU|6142|20261105|XTRA LEGROOM": {
-      "venue": "PVR IMAX with Laser, Priya: Delhi",
-      "time": "07:20 AM",
-      "date": "20261105",
-      "cat": "XTRA LEGROOM",
-      "price": "790.00",
-      "status": "0"
-    },
     "PVPU|6142|20261105|PICTURE PERFECT": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
       "time": "07:20 AM",
       "date": "20261105",
       "cat": "PICTURE PERFECT",
+      "price": "790.00",
+      "status": "0"
+    },
+    "PVPU|6142|20261105|XTRA LEGROOM": {
+      "venue": "PVR IMAX with Laser, Priya: Delhi",
+      "time": "07:20 AM",
+      "date": "20261105",
+      "cat": "XTRA LEGROOM",
       "price": "790.00",
       "status": "0"
     },
@@ -118,7 +118,7 @@
       "date": "20261105",
       "cat": "XTRA LEGROOM",
       "price": "1300.00",
-      "status": "0"
+      "status": "1"
     },
     "PVPU|6144|20261105|SUPERIOR": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
