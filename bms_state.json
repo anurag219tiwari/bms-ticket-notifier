@@ -1,53 +1,5 @@
 {
   "shows": {
-    "PVPU|6142|20261105|RECLINER": {
-      "venue": "PVR IMAX with Laser, Priya: Delhi",
-      "time": "07:20 AM",
-      "date": "20261105",
-      "cat": "RECLINER",
-      "price": "2200.00",
-      "status": "0"
-    },
-    "PVPU|6142|20261105|XTRA LEGROOM": {
-      "venue": "PVR IMAX with Laser, Priya: Delhi",
-      "time": "07:20 AM",
-      "date": "20261105",
-      "cat": "XTRA LEGROOM",
-      "price": "790.00",
-      "status": "0"
-    },
-    "PVPU|6142|20261105|PICTURE PERFECT": {
-      "venue": "PVR IMAX with Laser, Priya: Delhi",
-      "time": "07:20 AM",
-      "date": "20261105",
-      "cat": "PICTURE PERFECT",
-      "price": "790.00",
-      "status": "0"
-    },
-    "PVPU|6142|20261105|SUPERIOR": {
-      "venue": "PVR IMAX with Laser, Priya: Delhi",
-      "time": "07:20 AM",
-      "date": "20261105",
-      "cat": "SUPERIOR",
-      "price": "760.00",
-      "status": "1"
-    },
-    "PVPU|6142|20261105|PRIME": {
-      "venue": "PVR IMAX with Laser, Priya: Delhi",
-      "time": "07:20 AM",
-      "date": "20261105",
-      "cat": "PRIME",
-      "price": "730.00",
-      "status": "1"
-    },
-    "PVPU|6142|20261105|CLASSIC": {
-      "venue": "PVR IMAX with Laser, Priya: Delhi",
-      "time": "07:20 AM",
-      "date": "20261105",
-      "cat": "CLASSIC",
-      "price": "700.00",
-      "status": "2"
-    },
     "PVPU|6143|20261105|RECLINER": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
       "time": "11:00 AM",
@@ -56,19 +8,19 @@
       "price": "2300.00",
       "status": "0"
     },
-    "PVPU|6143|20261105|PICTURE PERFECT": {
-      "venue": "PVR IMAX with Laser, Priya: Delhi",
-      "time": "11:00 AM",
-      "date": "20261105",
-      "cat": "PICTURE PERFECT",
-      "price": "790.00",
-      "status": "0"
-    },
     "PVPU|6143|20261105|XTRA LEGROOM": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
       "time": "11:00 AM",
       "date": "20261105",
       "cat": "XTRA LEGROOM",
+      "price": "790.00",
+      "status": "0"
+    },
+    "PVPU|6143|20261105|PICTURE PERFECT": {
+      "venue": "PVR IMAX with Laser, Priya: Delhi",
+      "time": "11:00 AM",
+      "date": "20261105",
+      "cat": "PICTURE PERFECT",
       "price": "790.00",
       "status": "0"
     },
@@ -93,7 +45,7 @@
       "time": "11:00 AM",
       "date": "20261105",
       "cat": "CLASSIC",
-      "price": "660.00",
+      "price": "700.00",
       "status": "2"
     },
     "PVPU|6144|20261105|RECLINER": {
@@ -102,7 +54,7 @@
       "date": "20261105",
       "cat": "RECLINER",
       "price": "2400.00",
-      "status": "1"
+      "status": "0"
     },
     "PVPU|6144|20261105|PICTURE PERFECT": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
