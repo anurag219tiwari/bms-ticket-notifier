@@ -14,7 +14,7 @@
       "date": "20261112",
       "cat": "PICTURE PERFECT",
       "price": "790.00",
-      "status": "1"
+      "status": "0"
     },
     "PVPU|6242|20261112|XTRA LEGROOM": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
@@ -30,7 +30,7 @@
       "date": "20261112",
       "cat": "SUPERIOR",
       "price": "580.00",
-      "status": "3"
+      "status": "2"
     },
     "PVPU|6242|20261112|PRIME": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
@@ -104,6 +104,14 @@
       "price": "2400.00",
       "status": "1"
     },
+    "PVPU|6244|20261112|XTRA LEGROOM": {
+      "venue": "PVR IMAX with Laser, Priya: Delhi",
+      "time": "03:05 PM",
+      "date": "20261112",
+      "cat": "XTRA LEGROOM",
+      "price": "1450.00",
+      "status": "1"
+    },
     "PVPU|6244|20261112|PICTURE PERFECT": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
       "time": "03:05 PM",
@@ -112,21 +120,13 @@
       "price": "1450.00",
       "status": "1"
     },
-    "PVPU|6244|20261112|XTRA LEGROOM": {
-      "venue": "PVR IMAX with Laser, Priya: Delhi",
-      "time": "03:05 PM",
-      "date": "20261112",
-      "cat": "XTRA LEGROOM",
-      "price": "1300.00",
-      "status": "2"
-    },
     "PVPU|6244|20261112|SUPERIOR": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
       "time": "03:05 PM",
       "date": "20261112",
       "cat": "SUPERIOR",
-      "price": "1150.00",
-      "status": "2"
+      "price": "1250.00",
+      "status": "1"
     },
     "PVPU|6244|20261112|PRIME": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
@@ -165,15 +165,15 @@
       "time": "07:10 PM",
       "date": "20261112",
       "cat": "XTRA LEGROOM",
-      "price": "1300.00",
-      "status": "2"
+      "price": "1450.00",
+      "status": "0"
     },
     "PVPU|6245|20261112|SUPERIOR": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
       "time": "07:10 PM",
       "date": "20261112",
       "cat": "SUPERIOR",
-      "price": "1250.00",
+      "price": "1350.00",
       "status": "1"
     },
     "PVPU|6245|20261112|PRIME": {
