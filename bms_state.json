@@ -5,7 +5,7 @@
       "time": "07:20 AM",
       "date": "20261112",
       "cat": "RECLINER",
-      "price": "1800.00",
+      "price": "2200.00",
       "status": "1"
     },
     "PVPU|6242|20261112|PICTURE PERFECT": {
@@ -54,7 +54,7 @@
       "date": "20261112",
       "cat": "RECLINER",
       "price": "2300.00",
-      "status": "0"
+      "status": "1"
     },
     "PVPU|6243|20261112|XTRA LEGROOM": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
@@ -104,19 +104,19 @@
       "price": "2400.00",
       "status": "1"
     },
-    "PVPU|6244|20261112|PICTURE PERFECT": {
-      "venue": "PVR IMAX with Laser, Priya: Delhi",
-      "time": "03:05 PM",
-      "date": "20261112",
-      "cat": "PICTURE PERFECT",
-      "price": "1450.00",
-      "status": "1"
-    },
     "PVPU|6244|20261112|XTRA LEGROOM": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
       "time": "03:05 PM",
       "date": "20261112",
       "cat": "XTRA LEGROOM",
+      "price": "1450.00",
+      "status": "0"
+    },
+    "PVPU|6244|20261112|PICTURE PERFECT": {
+      "venue": "PVR IMAX with Laser, Priya: Delhi",
+      "time": "03:05 PM",
+      "date": "20261112",
+      "cat": "PICTURE PERFECT",
       "price": "1450.00",
       "status": "1"
     },
@@ -166,7 +166,7 @@
       "date": "20261112",
       "cat": "PICTURE PERFECT",
       "price": "1450.00",
-      "status": "1"
+      "status": "0"
     },
     "PVPU|6245|20261112|SUPERIOR": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
@@ -206,7 +206,7 @@
       "date": "20261112",
       "cat": "PICTURE PERFECT",
       "price": "1450.00",
-      "status": "2"
+      "status": "1"
     },
     "PVPU|6246|20261112|XTRA LEGROOM": {
       "venue": "PVR IMAX with Laser, Priya: Delhi",
@@ -242,12 +242,12 @@
     }
   },
   "dates": {
-    "20261110": "BOOKABLE",
-    "20261111": "AVAILABLE",
+    "20261111": "BOOKABLE",
     "20261112": "AVAILABLE",
     "20261113": "AVAILABLE",
     "20261114": "AVAILABLE",
     "20261115": "AVAILABLE",
-    "20261116": "NOT_OPEN"
+    "20261116": "NOT_OPEN",
+    "20261117": "NOT_OPEN"
   }
 }
